@@ -1,2 +1,2 @@
 # scalatuts
- 1. scala <initial examples>
+ 1. scala {initial examples}
